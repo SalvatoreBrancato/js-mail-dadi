@@ -1,0 +1,19 @@
+.square{
+    background-color: green;
+    display:none;   
+    height: 80vh;
+}
+
+#dadoGiocatore{
+    width: 100px;
+    height: 100px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
+
+#dadoComputer{
+    width: 100px;
+    height: 100px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
