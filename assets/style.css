@@ -1,7 +1,24 @@
+#accesso{
+    background-image: url(../img/e836f80a5d87408f68e040ef845b4ccb.jpg);    background-size: cover;
+    background-repeat: no-repeat;
+    margin: auto;
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
+
+
 .square{
-    background-color: green;
-    display:none;   
-    height: 80vh;
+    background-image: url(../img/set-aces-playing-card-casino-chips-green-poker-table_23-2147881012.webp);
+    background-size: cover;
+    border-radius: 30%;
+    display:none;
+    height: 50vh;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+
 }
 
 #dadoGiocatore{
